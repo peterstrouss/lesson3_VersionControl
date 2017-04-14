@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+April 13, 2017
 
 ## Student Name:  
-(First and Last Name)
+Peter Strouss
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+We learned about version control systems, git repositories, and how to use them to manage files.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A version control system or VCS is a way to store and manage files.
+2. A git repository is a useful type of VCS that we'll use in this class.
+3. You can use git command to work with and manage your git repositories on GitHub.
